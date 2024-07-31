@@ -1,6 +1,6 @@
  <h1 align="center">Heyo <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> It's Aniket Mokal!</h1>
 
-<img align="right" height="250px" alt="GIF" src="hero.png" padding="5px" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mokal2002&label=Profile%20views&color=0e75b6&style=flat" alt="mokal2002" /> </p>
 
 - 🔭 **Current Focus**: Sharpening my coding prowess across various platforms
 - 🌱 **Learning**: Deep diving into Core Java, Java EE, and Spring Boot to craft robust solutions
@@ -35,13 +35,15 @@
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" title="Anaconda" />
 </p>
 
+<br><br>
+
+
 <h3 align='center'>🌐 Connect with Me:</h3>
 <p align="center">
-  <a href="https://github.com/mokal2002" target="_blank"><img alt="GitHub" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-  <a href="https://www.linkedin.com/in/aniketmokal29/" target="_blank"><img alt="LinkedIn" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-  <a href="https://www.instagram.com/mokal_2002" target="_blank"><img alt="Instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-  <a href="https://aniketmokalinfo.pythonanywhere.com" target="_blank"><img alt="Portfolio" width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=QiwSMfboPt2R&format=png&color=f000000" /></a>
-</p>
+<a href="https://twitter.com/aniketmokal29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aniketmokal29" height="60" width="60" /></a>
+<a href="https://instagram.com/mokal_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mokal_2002" height="60" width="60" /></a>
+<a href="https://www.youtube.com/c/aniket moakl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aniket moakl" height="60" width="60" /></a>
+</p><br><br>
 
 <p align="center">
 <a href="https://github.com/mokal2002/Java-Projects"><img title="Java-Projects" src="https://github-readme-stats.vercel.app/api/pin/?username=mokal2002&repo=Java-Projects&theme=radical"></a>
@@ -52,5 +54,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mokal2002&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" alt="Aniket's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokal2002&layout=compact&hide_title=true&hide_border=true" alt="Top Languages" />
 </p>
+<br><br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mokal2002" alt="mokal2002" /></a> </p>
+
+
 <h3 align='center'>⭐ Show Some Love:</h3>
 <p align="center">If you like what you see, give a ⭐ to my repositories! It keeps me motivated to build more cool stuff.</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mokal2002&label=Profile%20views&color=0e75b6&style=flat" alt="mokal2002" /> </p>
