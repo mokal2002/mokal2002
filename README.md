@@ -46,6 +46,7 @@
   <a href="https://twitter.com/aniketmokal29" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" style="width: 60px; height: 60px; margin: 5px;"/></a>
   <a href="https://instagram.com/mokal_2002" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" style="width: 60px; height: 60px; margin: 5px;"/></a>
   <a href="https://www.youtube.com/c/aniket moakl" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" style="width: 60px; height: 60px; margin: 5px;"/></a>
+     <a href="https://www.linkedin.com/in/aniketmokal29/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" style="width: 60px; height: 60px; margin: 5px;"/></a>
 </p>
 <br><br>
 
