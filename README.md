@@ -1,6 +1,8 @@
  <h1 align="center">Heyo <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> It's Aniket Mokal!</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mokal2002&label=Profile%20views&color=0e75b6&style=flat" alt="mokal2002" /> </p>
+<img align="right" height="250px"   src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*m0rzjkpECTZUZFJCXo4BbQ.jpeg" padding="5px" />
+
+
 
 - 🔭 **Current Focus**: Sharpening my coding prowess across various platforms
 - 🌱 **Learning**: Deep diving into Core Java, Java EE, and Spring Boot to craft robust solutions
