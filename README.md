@@ -1,6 +1,8 @@
  <h1 align="center">Heyo <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35"> It's Aniket Mokal!</h1>
 
-<img align="right" height="250px" width="100%"   src="https://github.com/mokal2002/aniketmokal29/blob/main/banner.gif?raw=true" padding="5px" />
+<img src="https://github.com/mokal2002/aniketmokal29/blob/main/banner.gif?raw=true" 
+     alt="hero" 
+     style="width: 100%; height: auto; max-width: 800px; display: block; margin: 0 auto;">
 
 
 <img align="right" height="250px"   src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*m0rzjkpECTZUZFJCXo4BbQ.jpeg" padding="5px" />
