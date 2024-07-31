@@ -58,8 +58,8 @@
 <br><br>
 
 <p align="center" style="text-align: center; margin: 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=mokal2002&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" alt="Aniket's GitHub stats" style="max-width: 100%; height: auto; margin: 5px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokal2002&layout=compact&hide_title=true&hide_border=true" alt="Top Languages" style="max-width: 100%; height: auto; margin: 5px;"/>
+  <img src=https://github-readme-stats.vercel.app/api?username=mokal2002&show_icons=true alt=mokal2002 />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokal2002&layout=compact&hide_border=true" alt="Top Languages" style="max-width: 100%; height: auto; margin: 5px;"/>
 </p>
 
 <p align="center" style="text-align: center; margin: 0;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mokal2002" alt="mokal2002" style="max-width: 100%; height: auto; margin: 5px;"/></a> </p>
