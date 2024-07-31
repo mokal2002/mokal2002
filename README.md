@@ -4,9 +4,7 @@
      alt="hero" 
      style="width: 100%; height: auto; max-width: 800px; display: block; margin: 0 auto;">
 
-<img align="right" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*m0rzjkpECTZUZFJCXo4BbQ.jpeg" 
-     alt="Aniket Mokal" 
-     style="height: 250px; display: block; margin: 20px auto;">
+
 
 <ul style="list-style-type: none; padding: 0; text-align: center; margin: 0;">
   <li>🔭 <strong>Current Focus</strong>: Sharpening my coding prowess across various platforms</li>
