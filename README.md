@@ -52,7 +52,7 @@
 
 <p align="center" style="text-align: center; margin: 0;">
  <a href="https://github.com/mokal2002/College-Project-eBookLibrary"><img title="College-Project-eBookLibrary" src="https://github-readme-stats.vercel.app/api/pin/?username=mokal2002&repo=College-Project-eBookLibrary&theme=highcontrast" style="max-width: 100%; height: auto; margin: 5px;"/></a>
-  <a href="https://github.com/mokal2002/Java-Projects"><img title="Java-Projects" src="https://github-readme-stats.vercel.app/api/pin/?username=mokal2002&repo=Java-Projects&theme=radical" style="max-width: 100%; height: auto; margin: 5px;"/></a>
+  <a href="https://github.com/mokal2002/Core-Java-Projects"><img title="Java-Projects" src="https://github-readme-stats.vercel.app/api/pin/?username=mokal2002&repo=Java-Projects&theme=radical" style="max-width: 100%; height: auto; margin: 5px;"/></a>
   
 </p>
 <br><br>
