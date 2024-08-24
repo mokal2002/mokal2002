@@ -55,13 +55,13 @@
     <img title="Core-Java-Projects" src="https://github-readme-stats.vercel.app/api/pin/?username=mokal2002&repo=Core-Java-Projects&theme=radical" style="max-width: 100%; height: auto;"/>
   </a>
   <a href="https://github.com/mokal2002/Java-Swing-Chat-Application" style="margin: 5px;">
-    <img title="Java-Swing-Chat-Application" src="https://github-readme-stats.vercel.app/api/pin/?username=mokal2002&repo=Java-Swing-Chat-Application&theme=highcontrast" style="max-width: 100%; height: auto;"/>
+    <img title="Java-Swing-Chat-Application" src="https://github-readme-stats.vercel.app/api/pin/?username=mokal2002&repo=Java-Swing-Chat-Application&theme=radical" style="max-width: 100%; height: auto;"/>
   </a>
   <a href="https://github.com/mokal2002/Contact-Manager-Using-Spring" style="margin: 5px;">
-    <img title="Contact-Manager-Using-Spring" src="https://github-readme-stats.vercel.app/api/pin/?username=mokal2002&repo=Contact-Manager-Using-Spring&theme=highcontrast" style="max-width: 100%; height: auto;"/>
+    <img title="Contact-Manager-Using-Spring" src="https://github-readme-stats.vercel.app/api/pin/?username=mokal2002&repo=Contact-Manager-Using-Spring&theme=radical" style="max-width: 100%; height: auto;"/>
   </a>
   <a href="https://github.com/mokal2002/College-Project-eBookLibrary" style="margin: 5px;">
-    <img title="College-Project-eBookLibrary" src="https://github-readme-stats.vercel.app/api/pin/?username=mokal2002&repo=College-Project-eBookLibrary&theme=highcontrast" style="max-width: 100%; height: auto;"/>
+    <img title="College-Project-eBookLibrary" src="https://github-readme-stats.vercel.app/api/pin/?username=mokal2002&repo=College-Project-eBookLibrary&theme=radical" style="max-width: 100%; height: auto;"/>
   </a>
 </p>
 
