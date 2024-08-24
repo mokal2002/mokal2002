@@ -49,7 +49,7 @@
      <a href="https://www.linkedin.com/in/aniketmokal29/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" style="width: 60px; height: 60px; margin: 5px;"/></a>
 </p>
 <br><br>
-
+<h3 align="center" style="text-align: center;">My Projects</h3>
 <p align="center" style="text-align: center; margin: 0;">
   <a href="https://github.com/mokal2002/Core-Java-Projects" style="margin: 5px;">
     <img title="Core-Java-Projects" src="https://github-readme-stats.vercel.app/api/pin/?username=mokal2002&repo=Core-Java-Projects&theme=radical" style="max-width: 100%; height: auto;"/>
