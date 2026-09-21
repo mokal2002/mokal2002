@@ -230,23 +230,34 @@ A web-based digital library project developed using Python and Django.
 
 ---
 
-# 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mokal2002&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokal2002&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mokal2002&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=mokal2002&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=mokal2002&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mokal2002&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+  <img
+    src="https://raw.githubusercontent.com/mokal2002/mokal2002/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+
 </p>
 
 ---
