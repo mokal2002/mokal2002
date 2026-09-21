@@ -1,91 +1,296 @@
-# 👋 Hi, I’m Aniket Mokal  
+<!-- ========================= HEADER ========================= -->
 
-🚀 **Java Backend Developer** | Spring Boot | REST APIs | MySQL  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004958,50:006B7A,100:6DB33F&height=180&section=header&text=Aniket%20Mokal&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mokal2002&label=Profile%20Views&color=0e75b6&style=flat)
+<h1 align="center">👋 Hi, I'm Aniket Mokal</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=6DB33F&center=true&vCenter=true&width=850&height=60&lines=Java+Backend+Developer;Spring+Boot+Developer;Spring+AI+%7C+Generative+AI;RAG+%7C+Vector+Databases;Docker+%7C+Kubernetes;Building+AI-powered+Applications" />
+</p>
+
+<p align="center">
+  <b>☕ Java Backend Developer</b>
+  &nbsp;•&nbsp;
+  <b>🌱 Spring Boot</b>
+  &nbsp;•&nbsp;
+  <b>🤖 Spring AI</b>
+  &nbsp;•&nbsp;
+  <b>🔎 RAG</b>
+</p>
+
+<p align="center">
+  Building backend applications and exploring AI-powered systems with Java, Spring Boot and Spring AI.
+</p>
+
+<p align="center">
+  <a href="https://github.com/mokal2002">
+    <img src="https://img.shields.io/github/followers/mokal2002?style=for-the-badge&logo=github&label=Followers" />
+  </a>
+  <a href="https://github.com/mokal2002?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-33-004958?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/aniketmokal29/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
-## 🧠 About Me
+## 🧑‍💻 About Me
 
-- 🔭 Currently sharpening **DSA & backend development skills**
-- 🌱 Learning **Advanced Spring Boot, JPA/Hibernate & Microservices**
-- 👯 Open to **open-source & real-world backend projects**
-- 🥅 **2026 Goal**: Become a production-ready backend engineer
-- 💬 Ask me about **Java, Spring Boot, REST APIs**
-- 📫 Reach me at **aniketmokal29@gmail.com**
+* ☕ Building backend applications with **Java & Spring Boot**
+* 🤖 Exploring **Generative AI, Spring AI, RAG & AI applications**
+* 🔎 Working with **Embeddings, Vector Search & PGVector**
+* 🗄️ Working with **MySQL & PostgreSQL**
+* 🔐 Exploring **Spring Security & OAuth 2.0**
+* 🐳 Learning **Docker, Kubernetes & DevOps**
+* 🌱 Strengthening **Core Java, DSA & system design**
+* 🚀 Interested in building practical, production-oriented applications
+* 📍 Mumbai, India
 
 ---
 
-## 🛠️ Tech Stack
+# 🧰 Tech Stack
 
-### 💻 Backend & Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-25D366?style=for-the-badge)
+### ☕ Backend & Programming
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,django,maven" />
+</p>
+
+### 🌐 Web Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,thymeleaf" />
+</p>
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🌐 Frontend (Basic)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 🤖 AI & Generative AI
 
-### 🔹 Core Java Projects  
-🔗 https://github.com/mokal2002/Core-Java-Projects  
-✔️ OOP concepts, Collections, Multithreading, File Handling  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python" />
+</p>
 
-### 🔹 Java Swing Chat Application  
-🔗 https://github.com/mokal2002/Java-Swing-Chat-Application  
-✔️ Socket programming, GUI, client–server communication  
+<p align="center">
 
-### 🔹 Contact Manager (Spring Boot)  
-🔗 https://github.com/mokal2002/Contact-Manager-Using-Spring  
-✔️ Spring MVC, JPA, CRUD operations, Authentication  
+<img src="https://img.shields.io/badge/Java%20AI-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG-7B61FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PGVector-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-### 🔹 eBook Library (College Project)  
-🔗 https://github.com/mokal2002/College-Project-eBookLibrary  
-✔️ Java, Database integration, MVC architecture  
+</p>
+
+### 🧠 AI Technologies
+
+```text
+Java + Spring Boot
+        │
+        ▼
+    ┌───────────┐
+    │ Spring AI │
+    └─────┬─────┘
+          │
+    ┌─────┼─────────────┐
+    ▼     ▼             ▼
+   LLM   RAG        Tool Calling
+    │     │             │
+    │     ▼             │
+    │  Embeddings       │
+    │     │             │
+    │     ▼             │
+    │  PGVector         │
+    │                   │
+    └────────┬──────────┘
+             ▼
+       🤖 AI Application
+```
+
+**Currently exploring:**
+
+`Spring AI` · `ChatClient` · `RAG` · `Embeddings` · `Vector Search` · `PGVector` · `Ollama` · `Gemini` · `Prompt Engineering` · `AI Tools` · `MCP`
 
 ---
 
-## 📊 GitHub Stats
+# 🐳 DevOps & Tools
 
-![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mokal2002&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,postman,githubactions" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mokal2002&layout=compact&theme=radical)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=mokal2002&theme=radical&no-frame=true&row=1)
-
----
-
-## 🌐 Connect With Me
-
-- 🔗 **LinkedIn**: https://www.linkedin.com/in/aniketmokal29/
-- 🐦 **Twitter**: https://twitter.com/aniketmokal29
-- 📸 **Instagram**: https://instagram.com/mokal_2002
-- ▶️ **YouTube**: https://www.youtube.com/@aniketmokal
+**Tools:** IntelliJ IDEA · MySQL Workbench · SonarQube · Maven · Git · GitHub · Postman
 
 ---
 
-## ⭐ Support
+# 🚀 Featured Projects
 
-If you like my work, consider giving my repositories a ⭐  
-It motivates me to keep building and learning 🚀  
+### 📇 Contact Manager — Spring Boot
+
+A full-stack contact management application built using Spring Boot, Spring Security and Thymeleaf.
+
+**Tech:**
+`Java` `Spring Boot` `Spring Security` `JPA/Hibernate` `MySQL` `Thymeleaf` `Tailwind CSS`
+
+🔗 **[View Repository](https://github.com/mokal2002/Contact-Manager-Using-Spring)**
 
 ---
 
-### ⚡ Fun Fact
-> Consistency beats motivation — I code every day, even if it’s just one problem.
+### 🤖 Spring AI & RAG
+
+Exploring AI application development using **Spring AI**, LLMs, embeddings, vector databases and Retrieval-Augmented Generation.
+
+**Tech:**
+`Java` `Spring Boot` `Spring AI` `Gemini` `Ollama` `PostgreSQL` `PGVector` `RAG`
+
+🔗 **[View GitHub](https://github.com/mokal2002)**
+
+---
+
+### 💬 Java Swing Chat Application
+
+A client-server chat application demonstrating Java Swing and socket-based communication.
+
+**Tech:**
+`Java` `Swing` `Socket Programming` `Client-Server Architecture`
+
+🔗 **[View Repository](https://github.com/mokal2002/Java-Swing-Chat-Application)**
+
+---
+
+### ☕ Core Java Projects
+
+A collection of projects created while strengthening Core Java and programming fundamentals.
+
+**Topics:**
+`OOP` `Collections` `Exception Handling` `Multithreading` `File Handling`
+
+🔗 **[View Repository](https://github.com/mokal2002/Core-Java-Projects)**
+
+---
+
+### 📚 E-Book Library
+
+A web-based digital library project developed using Python and Django.
+
+**Tech:**
+`Python` `Django` `HTML` `CSS` `Database`
+
+🔗 **[View Repository](https://github.com/mokal2002/College-Project-eBookLibrary)**
+
+---
+
+# 🧠 Learning Roadmap
+
+```text
+                         🚀 MY DEVELOPMENT JOURNEY
+
+                               JAVA
+                                │
+              ┌─────────────────┼─────────────────┐
+              ▼                 ▼                 ▼
+          Core Java        Spring Boot          SQL
+              │                 │                 │
+              ▼                 ▼                 ▼
+             DSA            REST APIs         PostgreSQL
+              │                 │                 │
+              │          Spring Security       PGVector
+              │                 │                 │
+              └─────────────────┼─────────────────┘
+                                │
+                                ▼
+                           🌱 SPRING AI
+                                │
+                 ┌──────────────┼──────────────┐
+                 ▼              ▼              ▼
+                LLM            RAG        Embeddings
+                 │              │              │
+                 ▼              ▼              ▼
+              Gemini         PGVector        Ollama
+                 │              │              │
+                 └──────────────┼──────────────┘
+                                ▼
+                         🤖 AI APPLICATIONS
+                                │
+                                ▼
+                          🐳 DOCKER
+                                │
+                                ▼
+                         ☸️ KUBERNETES
+```
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mokal2002&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokal2002&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mokal2002&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mokal2002&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
+---
+
+# ⚡ Current Focus
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/☕_Java-Backend-ED8B00?style=flat-square"/>
+<img src="https://img.shields.io/badge/🌱_Spring_Boot-APIs-6DB33F?style=flat-square"/>
+<img src="https://img.shields.io/badge/🤖_Spring_AI-GenAI-6DB33F?style=flat-square"/>
+<img src="https://img.shields.io/badge/🔎_RAG-AI-7B61FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/🗄️_PostgreSQL-PGVector-336791?style=flat-square"/>
+<img src="https://img.shields.io/badge/🐳_Docker-DevOps-2496ED?style=flat-square"/>
+<img src="https://img.shields.io/badge/☸️_Kubernetes-Learning-326CE5?style=flat-square"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/aniketmokal29/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mokal2002">
+<img src="https://img.shields.io/badge/GitHub-mokal2002-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:aniketmokal29@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=6DB33F&center=true&vCenter=true&width=650&height=40&lines=Keep+Learning.;Keep+Building.;Keep+Improving.;One+Commit+At+a+Time+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,50:006B7A,100:004958&height=120&section=footer" width="100%"/>
+</p>
