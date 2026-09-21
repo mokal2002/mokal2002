@@ -132,60 +132,169 @@ Java + Spring Boot
 
 ---
 
+
+
 # 🚀 Featured Projects
 
-### 📇 Contact Manager — Spring Boot
+<table>
+<tr>
 
-A full-stack contact management application built using Spring Boot, Spring Security and Thymeleaf.
+<td width="33%" valign="top">
 
-**Tech:**
-`Java` `Spring Boot` `Spring Security` `JPA/Hibernate` `MySQL` `Thymeleaf` `Tailwind CSS`
+<h3 align="center">📇 Contact Manager</h3>
 
-🔗 **[View Repository](https://github.com/mokal2002/Contact-Manager-Using-Spring)**
+<p align="center">
+  <img
+    src="https://dummyimage.com/600x600/151515/6DB33F&text=SPRING+BOOT"
+    width="100%"
+    alt="Contact Manager"
+  />
+</p>
 
----
+<p align="center">
+  <b>Spring Boot</b><br>
+  Contact management application with authentication and database integration.
+</p>
 
-### 🤖 Spring AI & RAG
+<p align="center">
+  <a href="https://github.com/mokal2002/Contact-Manager-Using-Spring">
+    🔗 View Project
+  </a>
+</p>
 
-Exploring AI application development using **Spring AI**, LLMs, embeddings, vector databases and Retrieval-Augmented Generation.
+</td>
 
-**Tech:**
-`Java` `Spring Boot` `Spring AI` `Gemini` `Ollama` `PostgreSQL` `PGVector` `RAG`
+<td width="33%" valign="top">
 
-🔗 **[View GitHub](https://github.com/mokal2002)**
+<h3 align="center">🤖 Spring AI & RAG</h3>
 
----
+<p align="center">
+  <img
+    src="https://dummyimage.com/600x600/151515/6DB33F&text=SPRING+AI"
+    width="100%"
+    alt="Spring AI RAG"
+  />
+</p>
 
-### 💬 Java Swing Chat Application
+<p align="center">
+  <b>Spring AI</b><br>
+  Exploring LLMs, RAG, embeddings, vector search and PGVector.
+</p>
 
-A client-server chat application demonstrating Java Swing and socket-based communication.
+<p align="center">
+  <a href="https://github.com/mokal2002">
+    🔗 View Project
+  </a>
+</p>
 
-**Tech:**
-`Java` `Swing` `Socket Programming` `Client-Server Architecture`
+</td>
 
-🔗 **[View Repository](https://github.com/mokal2002/Java-Swing-Chat-Application)**
+<td width="33%" valign="top">
 
----
+<h3 align="center">💬 Java Chat</h3>
 
-### ☕ Core Java Projects
+<p align="center">
+  <img
+    src="https://dummyimage.com/600x600/151515/6DB33F&text=JAVA+CHAT"
+    width="100%"
+    alt="Java Swing Chat"
+  />
+</p>
 
-A collection of projects created while strengthening Core Java and programming fundamentals.
+<p align="center">
+  <b>Java Swing</b><br>
+  Client-server chat application using Java socket programming.
+</p>
 
-**Topics:**
-`OOP` `Collections` `Exception Handling` `Multithreading` `File Handling`
+<p align="center">
+  <a href="https://github.com/mokal2002/Java-Swing-Chat-Application">
+    🔗 View Project
+  </a>
+</p>
 
-🔗 **[View Repository](https://github.com/mokal2002/Core-Java-Projects)**
+</td>
 
----
+</tr>
 
-### 📚 E-Book Library
+<tr>
 
-A web-based digital library project developed using Python and Django.
+<td width="33%" valign="top">
 
-**Tech:**
-`Python` `Django` `HTML` `CSS` `Database`
+<h3 align="center">☕ Core Java</h3>
 
-🔗 **[View Repository](https://github.com/mokal2002/College-Project-eBookLibrary)**
+<p align="center">
+  <img
+    src="https://dummyimage.com/600x600/151515/6DB33F&text=CORE+JAVA"
+    width="100%"
+    alt="Core Java Projects"
+  />
+</p>
+
+<p align="center">
+  <b>Java Fundamentals</b><br>
+  OOP, collections, exception handling, multithreading and file handling.
+</p>
+
+<p align="center">
+  <a href="https://github.com/mokal2002/Core-Java-Projects">
+    🔗 View Project
+  </a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">📚 E-Book Library</h3>
+
+<p align="center">
+  <img
+    src="https://dummyimage.com/600x600/151515/6DB33F&text=DJANGO"
+    width="100%"
+    alt="E-Book Library"
+  />
+</p>
+
+<p align="center">
+  <b>Python Django</b><br>
+  Web-based digital library application.
+</p>
+
+<p align="center">
+  <a href="https://github.com/mokal2002/College-Project-eBookLibrary">
+    🔗 View Project
+  </a>
+</p>
+
+</td>
+
+<td width="33%" valign="top">
+
+<h3 align="center">☁️ Learn Docker</h3>
+
+<p align="center">
+  <img
+    src="https://dummyimage.com/600x600/151515/6DB33F&text=DOCKER"
+    width="100%"
+    alt="Learn Docker"
+  />
+</p>
+
+<p align="center">
+  <b>Docker & DevOps</b><br>
+  Hands-on learning with containers, images and Spring Boot applications.
+</p>
+
+<p align="center">
+  <a href="https://github.com/mokal2002/LearnDocker">
+    🔗 View Project
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -251,13 +360,11 @@ A web-based digital library project developed using Python and Django.
 ## 🐍 Contribution Activity
 
 <p align="center">
-
   <img
-    src="https://raw.githubusercontent.com/mokal2002/mokal2002/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/mokal2002/mokal2002/output/github-contribution-snake.svg"
     alt="GitHub Contribution Snake"
     width="100%"
   />
-
 </p>
 
 ---
